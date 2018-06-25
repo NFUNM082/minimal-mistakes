@@ -1,7 +1,7 @@
 ---
 title:  "SVG尝试"
 categories: 
-  - 网页设计
+  - 尝试实操
 last_modified_at: 2018-06-25T11:00:00-30:00
 ---
 
