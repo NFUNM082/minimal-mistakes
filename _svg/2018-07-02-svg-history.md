@@ -1,13 +1,6 @@
 ---
 title:  "SVG的历史"
 
-last_modified_at: 2018-06-18T18:40:00-45:00
----
-
-{% include base_path %}
-
-{% include toc title="目录" %}
-
 在2001年推出SVG的第一个版本，SVG允许在代码中使用矢量点来描述二维图像。
 
 ## SVG的优势  
