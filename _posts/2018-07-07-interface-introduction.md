@@ -6,8 +6,7 @@ categories:
 tags:
   - 笔记  
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /images/book-unsplash.jpg 
+  overlay_image: /images/interface.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 #  cta_label: "More Info" 
 #  cta_url: "https://unsplash.com"
@@ -23,7 +22,7 @@ excerpt: '网页界面设计'
   
 ## 界面设计-了解界面设计
  
-### 简说界面设计
+### 简说界面设计 Interface Design
  
 #### 界面设计是什么？
 - 这里主要提到的是网页界面设计，在网页上实现的用户界面，用户在浏览页面时会受界面设计的影响。不同的排版设计会对用户的浏览产生一定的影响，为了用户可以轻松浏览网站，应该站在用户的角度来实现排版布局。
