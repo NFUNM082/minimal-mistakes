@@ -1,5 +1,7 @@
 ---
 title:  "SVG的历史"
+sidebar:
+  nav: "docs"
 ---
 
 在2001年推出SVG的第一个版本，SVG允许在代码中使用矢量点来描述二维图像。

@@ -12,6 +12,8 @@ header:
 #  cta_url: "https://unsplash.com"
   caption:
 excerpt: '网页平面设计'
+sidebar:
+  nav: "docs"
 ---
  
 {% include base_path %}
