@@ -5,6 +5,7 @@ categories:
   - 平面设计
 tags:
   - 笔记 
+classes: wide
 header:
   overlay_image: /images/graphic.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

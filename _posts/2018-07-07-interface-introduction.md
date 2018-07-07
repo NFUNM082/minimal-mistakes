@@ -5,6 +5,7 @@ categories:
   - 界面设计
 tags:
   - 笔记  
+classes: wide
 header:
   overlay_image: /images/interface.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
