@@ -1,10 +1,17 @@
 ---
 title:  "平面设计-了解平面设计"
-modified: 2018-06-26 T16:03:49-04:00
+modified: 2018-07-07
 categories: 
   - 平面设计
 tags:
   - 笔记 
+header:
+  overlay_image: /images/graphic.jpg 
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#  cta_label: "More Info" 
+#  cta_url: "https://unsplash.com"
+  caption:
+excerpt: '网页平面设计'
 ---
  
 {% include base_path %}
