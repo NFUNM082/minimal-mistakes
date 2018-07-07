@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "吴扬扬"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/touxiang.jpg"
   bio              : "网络与新媒体专业学生"
   location         : "中山大学南方学院"
   email            :
