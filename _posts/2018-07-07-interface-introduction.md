@@ -54,7 +54,7 @@ excerpt: '网页界面设计'
  
 ### 网页结构 
 
-以下内容来源于[Web Style Guide](http://www.webstyleguide.com/wsg3/4-interface-design/3-interface-design.html)
+*以下内容来源于[Web Style Guide](http://www.webstyleguide.com/wsg3/4-interface-design/3-interface-design.html)*
 
 >- 无死胡同页（No dead-end pages）：用户可以直接创建或跟踪链接到深埋在网站层次结构中的子网页。
 >- 直接访问（Direct access）：用户希望以尽可能少的步骤获取信息。
