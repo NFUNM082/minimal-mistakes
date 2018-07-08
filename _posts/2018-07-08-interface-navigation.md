@@ -25,7 +25,7 @@ sidebar:
   
 昨天尝试了增加侧边栏导航，成功了，所以今天来介绍下是怎么尝试成功的。
 
-有关教程看这里 https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-navigation-menu
+有关教程看这里 [Custom Sidebar Navigation Menu](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-navigation-menu)
 
 ![Custom sidebar navigation menu example](https://upload-images.jianshu.io/upload_images/9437529-0828e8ad911ee659.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -66,6 +66,7 @@ sidebar:
 ```
 
 这样就成功了啦！
+
 ![侧边栏导航](https://upload-images.jianshu.io/upload_images/9437529-b748a5a4635b8cd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 注意的点
