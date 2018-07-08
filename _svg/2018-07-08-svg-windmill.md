@@ -30,7 +30,7 @@ sidebar:
 		transition: all 0.5S;
 	}
 	.rotate:hover {
-	  transform: rotate(360deg); 
+	  transform: rotate(1800deg); 
 	  transform-origin:50% 50%; 
 	}
     </style>
