@@ -22,64 +22,6 @@ sidebar:
 
 以下动画代码参考于菜鸟教程然后自己进行尝试，都是最基本的动画。
 
-## 盒阴影
-
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-		<style> 
-#box-shadow {
-    width: 100px;
-    height: 100px;
-    background-color: #ea8b3d;
-    -webkit-animation: mymove 6s infinite; /* Chrome, Safari, Opera */
-}
-
-@-webkit-keyframes mymove {
-    30% {box-shadow: 10px 20px 20px #e3b265;}
-}
-
-</style>
-	</head>
-	<body>
-<div id="box-shadow">
-</div>
-	</body>
-</html>
-
-阴影会动
-
-## 跳
-
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-		<style> 
-#clip {
-    width: 200px;
-    height: 200px;
-    background-color: coral;
-    position: absolute;
-    -webkit-animation: mymove 2s infinite; /* Chrome, Safari, Opera */
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes mymove {
-    50% {clip: rect(0px, 30px, 30px, 0px);}
-}
-
-}
-</style>
-	</head>
-	<body>
-		<div id="clip">
-        </div>
-	</body>
-</html>
-
-这个没什么，觉得很傻一直闪来闪去，有点好玩但其实没什么用，看看就行了。
 
 ## 放大
 
