@@ -1,6 +1,6 @@
 ---
 title:  "界面设计-侧边栏导航"
-modified: 2018-06-26 T16:03:49-04:00
+modified: 2018-07-08
 categories: 
   - 界面设计
 tags:
@@ -29,7 +29,6 @@ sidebar:
 
 ![Custom sidebar navigation menu example](https://upload-images.jianshu.io/upload_images/9437529-0828e8ad911ee659.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
----
 
 ## 添加侧边栏导航步骤
 
@@ -69,7 +68,6 @@ sidebar:
 这样就成功了啦！
 ![侧边栏导航](https://upload-images.jianshu.io/upload_images/9437529-b748a5a4635b8cd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
----
 ## 注意的点
 
 其实这个操作是非常简单的，只要看懂了教程就很容易。虽然教程是英语的，但是翻译成中文后很容易理解。
