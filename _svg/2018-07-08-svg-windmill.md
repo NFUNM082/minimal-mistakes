@@ -20,18 +20,22 @@ sidebar:
 
 {% include toc title="Getting Started" %}
 
+# svg动画尝试——旋转的风车
+
+把鼠标移到风车上试试看
+
 <head>
     <meta charset="utf-8">
     <title>Title</title>
     <style>
     .rotate {
 	    width: 500px;
-        height: 500px;
-		transition: all 0.5S;
+      height: 500px;
+		  transition: all 2.5S;
 	}
-	.rotate:hover {
-	  transform: rotate(1800deg); 
-	  transform-origin:50% 50%; 
+	  .rotate:hover {
+	    transform: rotate(1800deg); 
+	    transform-origin:50% 50%; 
 	}
     </style>
 </head>
@@ -58,4 +62,33 @@ sidebar:
 </svg>
 </div>
 </body>
-</html>
+
+# 过程
+
+先是用Ai做了风车的样式，很简单。
+
+![windmill](https://upload-images.jianshu.io/upload_images/9437529-88b884016114b92d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下面是让风车转的代码
+
+```
+    .rotate {
+	    width: 500px;
+      height: 500px;
+		  transition: all 2.5S;
+	}
+	  .rotate:hover {
+	    transform: rotate(1800deg); 
+```
+
+然后发现了一个问题就是风车不是沿着中间那个圆圈转的而是旋转中心在下方空白处。
+
+找了旋转中心后，终于发现原来是做svg图时并不规范。也就是开始做的时候建的是一个长方形的画布，而且图形也没有居中，并非上面所展示的那样在正方形画布中间。然后就改成了目前这个样子。
+
+并添加了代码：
+
+```
+transform-origin:50% 50%; 
+```
+
+风车就顺利转起来啦！（注意不能把速度弄得太快不然转起来看得眼瞎……）
