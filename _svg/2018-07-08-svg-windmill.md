@@ -1,10 +1,19 @@
 ---
-title:  "尝试放置动画"
-modified: 2018-06-20 T16:03:49-04:00
+title:  "svg动画——旋转的风车"
+modified: 2018-07-08
 categories: 
   - 网页制作
 tags:
   - SVG动画
+classes: wide
+excerpt: "制作svg动画"
+header:
+  overlay_image: /images/svg.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# cta_label: "More Info"
+# cta_url: "https://unsplash.com"
+sidebar:
+  nav: "docs"
 ---
 
 {% include base_path %}
