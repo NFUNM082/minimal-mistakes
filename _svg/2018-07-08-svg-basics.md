@@ -24,7 +24,6 @@ sidebar:
 
 ## 盒阴影
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -37,7 +36,6 @@ sidebar:
     -webkit-animation: mymove 6s infinite; /* Chrome, Safari, Opera */
 }
 
-/* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
     30% {box-shadow: 10px 20px 20px #e3b265;}
 }
