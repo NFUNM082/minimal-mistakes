@@ -1,7 +1,7 @@
 ---
 title:  "svg动画"
 categories: 
-  - 网页设计
+  - svg制作
 tags:
   - svg
 classes: wide

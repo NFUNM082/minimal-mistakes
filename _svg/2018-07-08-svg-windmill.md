@@ -2,7 +2,7 @@
 title:  "svg动画——旋转的风车"
 modified: 2018-07-08
 categories: 
-  - 网页制作
+  - svg制作
 tags:
   - SVG动画
 classes: wide
