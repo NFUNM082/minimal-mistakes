@@ -1,5 +1,5 @@
 ---
-title:  "svg动画——旋转的风车"
+title:  "svg动画—旋转的风车"
 modified: 2018-07-08
 categories: 
   - svg制作
