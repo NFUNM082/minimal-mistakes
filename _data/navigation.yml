@@ -14,25 +14,23 @@ main:
 docs:
   - title: svg制作
     children:
-      - title: "SVG的历史"
-        url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-02-svg-history/
-      - title: "SVG尝试"
-        url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-02-svg-try/
-      - title: "svg动画"
+      - title: "svg动画——刹车的小火车"
         url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-07-svg-train/
+      - title: "简说svg"
+        url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-08-svg-basic/
+      - title: "svg动画——会走的爱"
+        url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-08-svg-love/
+      - title: "svg动画——旋转的风车"
+        url: https://nfunm082.gitee.io/minimal-mistakes/svg/2018-07-08-svg-windmill/
 
   - title: 界面设计
     children:
+      - title: "界面设计——基础知识"
+        url: https://nfunm082.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-basic/
+      - title: "界面设计-侧边栏导航"
+        url: https://nfunm082.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-navigation/
       - title: "界面设计-了解界面设计"
         url: https://nfunm082.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-introduction/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
 
   - title: 平面设计
     children:
