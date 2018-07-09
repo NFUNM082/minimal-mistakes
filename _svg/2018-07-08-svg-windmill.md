@@ -75,7 +75,7 @@ sidebar:
     .rotate {
 	    width: 500px;
       height: 500px;
-		  transition: all 2.5S;
+		  transition: all 3S;
 	}
 	  .rotate:hover {
 	    transform: rotate(1800deg); 
