@@ -1,5 +1,5 @@
 ---
-title:  "平面设计-了解平面设计"
+title:  "平面设计—了解平面设计"
 modified: 2018-07-07
 categories: 
   - 平面设计
