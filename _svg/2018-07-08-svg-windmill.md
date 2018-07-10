@@ -18,7 +18,7 @@ sidebar:
 
 {% include base_path %}
 
-{% include toc title="Getting Started" %}
+{% include toc title="目录" %}
 
 # svg动画尝试——旋转的风车
 
